@@ -1,5 +1,5 @@
-## www.ain.kim
+## Welcome!
 
-This is Ain's blog  
+This is Ain's page  
 made for the 10th birthday  
 with love by Dad. 
