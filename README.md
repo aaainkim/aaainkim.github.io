@@ -1,5 +1,5 @@
-# Ain.Kim
+## www.ain.kim
 
 This is Ain's blog  
-made for my 10th birthday  
-with love by Dad.  
+made for the 10th birthday  
+with love by Dad. 
